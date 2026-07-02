@@ -1,0 +1,13 @@
+tuplex=("Husna",True,10.4,1)
+print(tuplex)
+tuplex=(20,30,78,10)
+print(tuplex)
+tuplex=tuplex+(9,)
+print(tuplex)
+tuple1=(50,10,50,60,50)
+print(tuple1.count(50))
+tuple2=(1,2,3,4,5,6,7,8,9,10)
+slice=tuple2[3:5]
+print(slice)
+slice=tuple2[:6]
+print(slice)
